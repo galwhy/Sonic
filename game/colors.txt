@@ -1,0 +1,12 @@
+offsety = 313
+offsetx = 0
+starty = 159
+startx = 35
+
+
+black - 0
+white - FF
+red - F9
+green - FA
+blue - FC
+
